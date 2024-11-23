@@ -1,0 +1,17 @@
+L 11/22/2024 - 18:34:42: Log file started (file "logs/L1122006.log") (game "cstrike") (version "48/1.1.2.7/Stdio/10211")
+L 11/22/2024 - 18:34:42: Server cvar "sv_maxspeed" = "320"
+L 11/22/2024 - 18:34:42: Server cvar "mp_timelimit" = "20"
+L 11/22/2024 - 18:34:49: World triggered "Round_Start"
+L 11/22/2024 - 18:39:49: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 11/22/2024 - 18:39:49: World triggered "Round_End"
+L 11/22/2024 - 18:40:00: World triggered "Round_Start"
+L 11/22/2024 - 18:42:28: [META] ini: Begin re-reading plugins list: /home/csserver/serverfiles/cstrike/addons/metamod/plugins.ini
+L 11/22/2024 - 18:42:28: [META] ERROR: ini: Skipping plugin, couldn't stat file 'addons/amxmodx/dlls/amxmodx_mm_i386.so': No such file or directory
+L 11/22/2024 - 18:42:28: [META] ini: Finished reading plugins list: /home/csserver/serverfiles/cstrike/addons/metamod/plugins.ini; Found 0 plugins
+L 11/22/2024 - 18:42:28: [META] ERROR: ini: Warning; no plugins found to load?
+L 11/22/2024 - 18:42:28: [META] dll: Updating plugins...
+L 11/22/2024 - 18:42:28: [META] ERROR: dll: Failed query plugin '<amxmodx_mm_i386.so>'; Couldn't open file 'addons/amxmodx/dlls/amxmodx_mm_i386.so': addons/amxmodx/dlls/amxmodx_mm_i386.so: cannot open shared object file: No such file or directory
+L 11/22/2024 - 18:42:28: [META] ERROR: dll: Skipping plugin '<amxmodx_mm_i386.so>'; couldn't query
+L 11/22/2024 - 18:42:28: [META] dll: Finished updating 1 plugins; kept 0, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/22/2024 - 18:42:28: Server shutdown
+L 11/22/2024 - 18:42:28: Log file closed

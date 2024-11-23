@@ -1,0 +1,24 @@
+L 11/22/2024 - 18:42:41: Log file started (file "logs/L1122007.log") (game "cstrike") (version "48/1.1.2.7/Stdio/10211")
+L 11/22/2024 - 18:42:41: Server cvar "sv_maxspeed" = "320"
+L 11/22/2024 - 18:42:41: Server cvar "mp_timelimit" = "20"
+L 11/22/2024 - 18:42:49: World triggered "Round_Start"
+L 11/22/2024 - 18:43:24: "mibr<1><STEAM_0:0:921185963><>" connected, address "186.128.23.228:27005"
+L 11/22/2024 - 18:43:25: "mibr<1><STEAM_0:0:921185963><>" STEAM USERID validated
+L 11/22/2024 - 18:43:27: "mibr<1><STEAM_0:0:921185963><>" entered the game
+L 11/22/2024 - 18:43:29: "mibr<1><STEAM_0:0:921185963><>" joined team "CT"
+L 11/22/2024 - 18:47:49: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 11/22/2024 - 18:47:49: World triggered "Round_End"
+L 11/22/2024 - 18:48:00: World triggered "Round_Start"
+L 11/22/2024 - 18:50:32: [META] ini: Begin re-reading plugins list: /home/csserver/serverfiles/cstrike/addons/metamod/plugins.ini
+L 11/22/2024 - 18:50:32: [META] ERROR: ini: Skipping plugin, couldn't stat file 'addons/amxmodx/dlls/amxmodx_mm_i386.so': No such file or directory
+L 11/22/2024 - 18:50:32: [META] ini: Finished reading plugins list: /home/csserver/serverfiles/cstrike/addons/metamod/plugins.ini; Found 0 plugins
+L 11/22/2024 - 18:50:32: [META] ERROR: ini: Warning; no plugins found to load?
+L 11/22/2024 - 18:50:32: [META] dll: Updating plugins...
+L 11/22/2024 - 18:50:32: [META] ERROR: dll: Failed query plugin '<amxmodx_mm_i386.so>'; Couldn't open file 'addons/amxmodx/dlls/amxmodx_mm_i386.so': addons/amxmodx/dlls/amxmodx_mm_i386.so: cannot open shared object file: No such file or directory
+L 11/22/2024 - 18:50:32: [META] ERROR: dll: Skipping plugin '<amxmodx_mm_i386.so>'; couldn't query
+L 11/22/2024 - 18:50:32: [META] dll: Finished updating 1 plugins; kept 0, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/22/2024 - 18:50:32: "mibr<-1><><CT>" disconnected
+L 11/22/2024 - 18:50:32: World triggered "Round_Draw" (CT "1") (T "0")
+L 11/22/2024 - 18:50:32: World triggered "Round_End"
+L 11/22/2024 - 18:50:32: Server shutdown
+L 11/22/2024 - 18:50:32: Log file closed

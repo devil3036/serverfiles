@@ -1,0 +1,14 @@
+L 11/22/2024 - 20:13:28: Log file started (file "logs/L1122008.log") (game "cstrike") (version "48/1.1.2.7/Stdio/10211")
+L 11/22/2024 - 20:13:28: Server cvar "sv_maxspeed" = "320"
+L 11/22/2024 - 20:13:28: Server cvar "mp_timelimit" = "20"
+L 11/22/2024 - 20:13:34: "mibr<1><STEAM_0:0:921185963><>" connected, address "186.128.23.228:27005"
+L 11/22/2024 - 20:13:35: "mibr<1><STEAM_0:0:921185963><>" STEAM USERID validated
+L 11/22/2024 - 20:13:36: World triggered "Round_Start"
+L 11/22/2024 - 20:13:37: "mibr<1><STEAM_0:0:921185963><>" entered the game
+L 11/22/2024 - 20:13:41: "mibr<1><STEAM_0:0:921185963><>" joined team "CT"
+L 11/22/2024 - 20:16:22: "mibr<1><STEAM_0:0:921185963><CT>" disconnected
+L 11/22/2024 - 20:16:22: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/22/2024 - 20:16:22: World triggered "Round_End"
+L 11/22/2024 - 20:16:33: World triggered "Round_Start"
+L 11/22/2024 - 20:16:41: Server shutdown
+L 11/22/2024 - 20:16:41: Log file closed

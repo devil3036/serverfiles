@@ -1,0 +1,6 @@
+----------------------------------------------
+CRASH: Fri Nov 22 05:31:52 PM -03 2024
+Start Line: ./hlds_linux -game cstrike +ip +port 27015 +map de_dust2 +maxplayers 16 -pingboost 2 +sys_ticrate 10000 -secure
+----------------------------------------------
+CRASH: Fri Nov 22 05:47:23 PM -03 2024
+Start Line: ./hlds_linux -game cstrike -strictportbind +ip 0.0.0.0 -port 27015 +clientport 27005 +map de_dust2 +servercfgfile csserver.cfg -maxplayers 16

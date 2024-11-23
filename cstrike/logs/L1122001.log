@@ -1,0 +1,6 @@
+L 11/22/2024 - 17:35:16: Log file started (file "logs/L1122001.log") (game "cstrike") (version "48/1.1.2.7/Stdio/10211")
+L 11/22/2024 - 17:35:16: Server cvar "sv_maxspeed" = "320"
+L 11/22/2024 - 17:35:16: Server cvar "mp_timelimit" = "20"
+L 11/22/2024 - 17:35:23: World triggered "Round_Start"
+L 11/22/2024 - 17:40:22: Server shutdown
+L 11/22/2024 - 17:40:22: Log file closed

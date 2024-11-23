@@ -1,0 +1,19 @@
+L 11/23/2024 - 06:06:14: Log file started (file "logs/L1123000.log") (game "cstrike") (version "48/1.1.2.7/Stdio/10211")
+L 11/23/2024 - 06:06:14: Server cvar "sv_maxspeed" = "320"
+L 11/23/2024 - 06:06:14: Server cvar "mp_timelimit" = "20"
+L 11/23/2024 - 06:06:18: "mibr<1><STEAM_0:0:921185963><>" connected, address "186.128.23.228:27005"
+L 11/23/2024 - 06:06:18: "mibr<1><STEAM_0:0:921185963><>" STEAM USERID validated
+L 11/23/2024 - 06:06:21: World triggered "Round_Start"
+L 11/23/2024 - 06:06:22: "mibr<1><STEAM_0:0:921185963><>" entered the game
+L 11/23/2024 - 06:06:23: "mibr<1><STEAM_0:0:921185963><>" joined team "CT"
+L 11/23/2024 - 06:07:34: "mibr<1><STEAM_0:0:921185963><CT>" disconnected
+L 11/23/2024 - 06:07:34: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/23/2024 - 06:07:34: World triggered "Round_End"
+L 11/23/2024 - 06:07:45: World triggered "Round_Start"
+L 11/23/2024 - 06:07:54: [META] ini: Begin re-reading plugins list: /home/csserver/serverfiles/cstrike/addons/metamod/plugins.ini
+L 11/23/2024 - 06:07:54: [META] ini: Read plugin config for: AMX Mod X
+L 11/23/2024 - 06:07:54: [META] ini: Finished reading plugins list: /home/csserver/serverfiles/cstrike/addons/metamod/plugins.ini; Found 1 plugins
+L 11/23/2024 - 06:07:54: [META] dll: Updating plugins...
+L 11/23/2024 - 06:07:54: [META] dll: Finished updating 4 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/23/2024 - 06:07:55: Server shutdown
+L 11/23/2024 - 06:07:55: Log file closed
